@@ -1,2 +1,2 @@
 # DrumKit
-A fun drum kit to play with using keys
+A fun drum kit that can be played using a few keys
